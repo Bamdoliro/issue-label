@@ -1,0 +1,49 @@
+{
+    "labels": [
+        {
+            "name": "🐞 Bug",
+            "color": "d73a4a",
+            "description": "버그 발생"
+        },
+        {
+            "name": "✨ Feature",
+            "color": "a2eeef",
+            "description": "새로운 기능 개발"
+        },
+        {
+            "name": "📄 Docs",
+            "color": "0075ca",
+            "description": "문서 작성 및 수정"
+        },
+        {
+            "name": "🏓 CHORE",
+            "color": "B7F3C6",
+            "description": "짜잘한 일"
+        },
+        {
+            "name": "🔨 Refactor",
+            "color": "FCDE6D",
+            "description": "코드 리팩토링"
+        },
+        {
+            "name": "⚙️ Setting",
+            "color": "cfd3d7",
+            "description": "개발 환경 세팅"
+        },
+        {
+            "name": "✅ Test",
+            "color": "ccffc4",
+            "description": "test 관련"
+        },
+        {
+            "name": "🙋🏻 Question",
+            "color": "008672",
+            "description": "도움이 필요해요"
+        },
+        {
+            "name": "🌏 Deploy",
+            "color": "C2E0C6",
+            "description": "배포 관련"
+        }
+    ]
+}
